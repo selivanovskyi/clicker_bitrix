@@ -1,0 +1,10 @@
+D:\c#\autobitrix\autoclicker\autoclicker\bin\Release\autoclicker.exe.config
+D:\c#\autobitrix\autoclicker\autoclicker\bin\Release\autoclicker.exe
+D:\c#\autobitrix\autoclicker\autoclicker\bin\Release\autoclicker.pdb
+D:\c#\autobitrix\autoclicker\autoclicker\bin\Release\WebDriver.dll
+D:\c#\autobitrix\autoclicker\autoclicker\obj\Release\autoclicker.csprojResolveAssemblyReference.cache
+D:\c#\autobitrix\autoclicker\autoclicker\obj\Release\autoclicker.Form1.resources
+D:\c#\autobitrix\autoclicker\autoclicker\obj\Release\autoclicker.Properties.Resources.resources
+D:\c#\autobitrix\autoclicker\autoclicker\obj\Release\autoclicker.csproj.GenerateResource.Cache
+D:\c#\autobitrix\autoclicker\autoclicker\obj\Release\autoclicker.exe
+D:\c#\autobitrix\autoclicker\autoclicker\obj\Release\autoclicker.pdb

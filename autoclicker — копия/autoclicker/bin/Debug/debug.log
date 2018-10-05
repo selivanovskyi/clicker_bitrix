@@ -1,0 +1,3 @@
+[0412/144750.252:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0412/144750.253:ERROR:exception_snapshot_win.cc(87)] thread ID 21620 not found in process
+[0412/144750.253:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
